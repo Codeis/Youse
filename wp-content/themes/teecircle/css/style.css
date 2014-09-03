@@ -847,7 +847,7 @@ font-size:14px;}
 .wrapper .mainBdy .content .listings .right .hdngTxt a{color:#547199; text-decoration:none;}
 .wrapper .mainBdy .content .listings .right .hdngTxt a:hover{text-decoration:underline;}
 .wrapper .mainBdy .content .listings .right .subTxt{font:14px 'Conv_VarelaRound-Regular';color:#8d9299;margin-top:20px;}
-.wrapper .mainBdy .content .listings .right .barBack{width:536px;height:10px;background:#DADCE0;margin:20px 0;}
+.wrapper .mainBdy .content .listings .right .barBack{height:10px;background:#DADCE0;margin:20px 0;}
 .wrapper .mainBdy .content .listings .right .barInside{background:#4bb232;height:10px;width:3%;}
 .wrapper .mainBdy .content .listings .right .barInsideInctv{background:#B2B2B2;height:10px;}
 .wrapper .mainBdy .content .listings .right .sellingDtls{padding:0;margin:0; height:42px;}
@@ -981,13 +981,13 @@ padding:8px 2% 0 2%; text-align:left;}
 #campaigns .listings{margin:0;}
 #campaigns .listings .left{width:176px;}
 #campaigns .listings .left .box{min-height:0; padding:0;}
-#campaigns .listings .left .box span .dsgnCen{width:inherit; margin:0; float:none; position:relative; overflow:visible;}
+#campaigns .listings .left .box span .dsgnCen{margin:-90px; float:none; position:relative; overflow:visible;}
 #campaigns .listings .left .box span .dsgnCen img{max-width:100%; display:block;}
 /*#campaigns #text_container{left:0; top:0; width:auto; height:auto; overflow:visible;}*/
 #campaigns #text_container .draggable1{line-height:normal; left:0; top:0;}
 #campaigns .listings{margin-bottom:20px; padding-top:20px; border-top:1px dashed #787878;}
 /*#campaigns .listings:first-child{padding:0; margin:0; border:0;}*/
-#campaigns .listings .right{width:516px; float:none; float:right; margin-left:0;}
+#campaigns .listings .right{width:416px; float:none; float:right; margin-left:0;}
 #campaigns .hdng{margin-bottom:8px;}
 
 #campaigns .listings .left .box span .dsgnCen #dv_front{transform: scale(0.6); margin:0;
